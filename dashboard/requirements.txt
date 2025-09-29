@@ -1,0 +1,5 @@
+requests
+pyyaml
+boto3
+supabase
+google-api-python-client
